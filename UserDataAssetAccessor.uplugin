@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UserDataAssetAccessor",
+	"Description": "Utility plugin to access basic Asset User Data in Blueprints",
+	"Category": "Other",
+	"CreatedBy": "MaxEstLa",
+	"CreatedByURL": "www.maxestla.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UserDataAssetAccessor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
